@@ -1,7 +1,7 @@
 # Data_Science
 Curso de Científico de Datos en Alura 
 
-# 📊 Ciencia de Datos con Python & Google Colaboratory
+# 📊 Ciencia de Datos con Python & Google Colab
 
 ![Data Science Banner](https://img.freepik.com/premium-photo/colorful-graph-chart-with-mountain-shaped-bars_116953-11533.jpg)
 
