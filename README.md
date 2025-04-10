@@ -17,12 +17,14 @@ Este repositorio contiene notebooks interactivos y herramientas útiles para el 
 
 ## 📁 Estructura del proyecto
 
-📦 Ciencia-de-Datos-Colab 
-├── 📂 datasets/ # Conjuntos de datos utilizados 
-├── 📂 notebooks/ # Notebooks de Google Colab (.ipynb) 
-├── 📂 images/ # Gráficos y recursos visuales 
-├── 📜 requirements.txt # Librerías necesarias 
-└── 📄 README.md # Este archivo hermoso
+```plaintext
+📦 Ciencia-de-Datos-Colab
+├── 📂 datasets/            # Conjuntos de datos utilizados
+├── 📂 notebooks/           # Notebooks de Google Colab (.ipynb)
+├── 📂 images/              # Gráficos y recursos visuales
+├── 📜 requirements.txt     # Librerías necesarias
+└── 📄 README.md            # Este archivo hermoso
+
 
 ---
 
